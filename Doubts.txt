@@ -1,0 +1,4 @@
+const now = Date(now)
+const cutoff = new Date(now)
+cutoff.setHours(9, 0, 0, 0);
+const status = now <= cutoff ? 'On Time' : 'Late';
