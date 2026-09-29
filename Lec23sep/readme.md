@@ -3,6 +3,9 @@ npx prisma generate
 npm i @prisma/adapter-pg
 
 
+npx prisma studio isse dekh skte h
+
+
 prismapg is constructor function
 
 
